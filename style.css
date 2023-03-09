@@ -1,0 +1,72 @@
+  @import url('https://fonts.googleapis.com/css2?family=Moul&display=swap');
+
+  .navbar-brand {
+      color: #FF791F !important;
+      font-style: 400;
+      font-family: 'Moul', cursive;
+  }
+
+  .Order {
+      background-color: #FF791F;
+      color: white;
+      border-radius: 7px;
+  }
+
+  .nav-item {
+      margin: 15px;
+  }
+
+  .nav-link {
+      color: white !important;
+  }
+
+  .hero {
+      height: 100vh;
+  }
+
+  .colororange {
+      color: #FF791F;
+  }
+
+  .Delivery {
+    background-color: bisque;
+  }
+
+  .fresh {
+    background-color: bisque;
+  }
+
+  .bohyee {
+    font-size: 22px;
+    color: #FF791F;
+  }
+
+  .weare {
+    font-size: 61px;
+    font-weight: 500px;
+  }
+
+  @media (max-width: 576px) {
+      .order-layout {
+          order: -1;
+      }
+
+      .nav-item {
+          margin: 0px;
+      }
+
+      .navbar-collapse.show {
+        background-color: #FF791F !important;
+        text-align: center;
+        padding-bottom: 10px;
+    
+      }
+
+      .navbar.navbar-brand {
+        text-align: center !important;
+      }
+
+
+
+
+  }
